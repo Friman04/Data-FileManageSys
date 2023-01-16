@@ -1,0 +1,60 @@
+﻿  main.cpp
+C:\Users\Friman\source\repos\management_system\main.cpp(370,8): warning C4101: “fp”: 未引用的局部变量
+C:\Users\Friman\source\repos\management_system\main.cpp(550,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(570,37): warning C4473: “sprintf_s”: 没有为格式字符串传递足够的参数
+C:\Users\Friman\source\repos\management_system\main.cpp(570,37): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\Friman\source\repos\management_system\main.cpp(570,37): message : 缺失的可变参数 2 为格式字符串“%s”所需
+C:\Users\Friman\source\repos\management_system\main.cpp(604,84): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(604,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(604,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(608,54): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(610,66): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(610,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(613,125): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(613,99): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(616,172): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(616,142): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(616,119): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(617,92): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(621,178): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(621,152): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(621,126): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(621,80): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(639,170): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(639,124): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(639,108): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(639,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(640,194): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(640,168): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(640,142): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(640,96): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(646,105): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(646,93): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(648,170): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(648,124): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(648,108): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(648,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(649,194): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(649,168): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(649,142): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(649,96): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(657,170): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(657,124): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(657,108): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(657,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(658,194): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(658,168): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(658,142): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(658,96): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(667,163): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(667,117): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(667,101): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(667,55): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(668,186): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(668,160): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(668,134): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(668,88): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Friman\source\repos\management_system\main.cpp(687,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+C:\Users\Friman\source\repos\management_system\main.cpp(687,10): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "int" 的参数 1 冲突
+C:\Users\Friman\source\repos\management_system\main.cpp(151): warning C4715: “align”: 不是所有的控件路径都返回值
+  management system.vcxproj -> C:\Users\Friman\source\repos\management_system\x64\Debug\management system.exe
